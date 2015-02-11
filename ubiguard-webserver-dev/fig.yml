@@ -1,0 +1,5 @@
+webserver:
+  image: ubiguard-webserver-dev
+  volumes:
+    - /home/galonso/dvlp/web/ubiguard/frontend/portal-v2:/var/www/html
+  
