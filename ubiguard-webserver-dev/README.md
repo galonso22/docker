@@ -16,7 +16,7 @@ make
 Configurar fig.yml con las rutas de los volumenes correctos.
 
 ```sh
-figu up ubiguard-webserver-dev
+fig up ubiguard-webserver-dev
 ```
 
 Aparte hay que agregar en /etc/hosts:
